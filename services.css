@@ -1,0 +1,73 @@
+/* Banner */
+#services-banner {
+  background-image: linear-gradient(#00000094, #00000094),
+    url("images/services-banner.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  color: #fff;
+}
+.banner-content {
+  text-align: center;
+  padding-top: 120px;
+}
+
+/* Services */
+#services {
+  padding: 30px 0;
+  background-color: #ffffff;
+}
+#services h1 {
+  text-align: center;
+}
+#services p {
+  font-size: 15px;
+  font-weight: 500;
+  color: #7d7777;
+  text-align: center;
+}
+.our-services {
+  margin-top: 20px;
+}
+#services .our-services h3 {
+  text-align: center;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 25px;
+}
+#services .our-services p {
+  color: #fffffff7;
+  font-weight: 500;
+  font-size: 15px;
+  text-align: justify;
+}
+#services .our-services .fa {
+  text-align: center;
+  width: 100%;
+  font-size: 25px;
+  color: #ffffff;
+}
+#services .our-services span {
+  color: #fffffff7;
+  font-weight: 500;
+  font-size: 15px;
+  text-align: justify;
+  margin-left: 2px;
+}
+.fa-chevron-circle-right {
+  display: inline;
+  text-align: left !important;
+  width: 100%;
+  font-size: 14px !important;
+  color: #ffffff;
+}
+.services1 {
+  background-color: #ff9e55;
+  padding: 20px;
+  border-radius: 20px;
+  height: 100%;
+  width: 100%;
+}
+.heading2 {
+  color: #ff9e55;
+}
